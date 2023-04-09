@@ -13,6 +13,11 @@ const userData = {
       imgUrl: "/virtualme3.png",
     },
     {
+      title: "Personal Portfolio 2.0",
+      link: "https://github.com/tahababou12/portfolio",
+      imgUrl: "/portfolio.png",
+    },
+    {
       title: "RECOG - Image Recognition for Blind Users",
       link: "https://github.com/tahababou12/Object-Recognizer",
       imgUrl: "/recog.png",
