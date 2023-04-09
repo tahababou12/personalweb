@@ -61,7 +61,7 @@ const userData = {
       `As I ventured into the mystical realm of computer engineering at Boston University, I tamed the wildest subjects like algorithms and operating systems, crafting a diverse set of programming skills. From Junior Technical Lead at The Society of Scent to Senior Technical Lead at Be Local, I wielded my powers to drive growth and user engagement, managing multicultural teams and optimizing AWS resources with ease.`,
       `Away from the world of code, I am a true adventurer, conquering golf courses, riding the waves, and capturing breathtaking moments through my lens. This is my story, and it's only just begun!`,
     ],
-    currentProject: "VirtualMe 👨‍💻",
+    currentProject: "VirtualMe👨‍💻",
     currentProjectUrl: "https://taha.d3p9cjveerhpg.amplifyapp.com/",
   },
   experience: [
