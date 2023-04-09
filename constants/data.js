@@ -18,12 +18,12 @@ const userData = {
       imgUrl: "/portfolio.png",
     },
     {
-      title: "RECOG - Image Recognition for Blind Users",
+      title: "RECOG - Image Recognition App for Blind Users",
       link: "https://github.com/tahababou12/Object-Recognizer",
       imgUrl: "/recog.png",
     },
     {
-      title: "Spock",
+      title: "Spock: Cryptographic signature login",
       link: "https://github.com/AbhinavMir/spock",
       imgUrl: "/spock.png",
     },
@@ -43,7 +43,7 @@ const userData = {
       imgUrl: "/playground.png",
     },
     {
-      title: "Personal Portfolio Website 1.0",
+      title: "Personal Portfolio 1.0",
       link: "https://github.com/tahababou12/inkognito",
       imgUrl: "/inkognito.png",
     },
