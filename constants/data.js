@@ -4,6 +4,7 @@ const userData = {
   designation: "Software Engineer",
   avatarUrl: "/official.jpg",
   email: "tahababou12@gmail.com",
+  emailTO: "mailto:tahababou12@gmail.com",
   phone: "+1 (617) 852-5026",
   address: "Boston, MA, USA",
   projects: [
