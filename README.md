@@ -1,6 +1,6 @@
 ## Personal Portfolio 2.0
 
-**UPDATE:**
+This repository contains the source code for my personal portfolio website, which you can visit at https://inkognito.tech
 
 # Features
 
